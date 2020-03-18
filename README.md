@@ -9,5 +9,5 @@
 - clustering
   - kmeans (+ elbow method for determining optimal k)
   - hierarchical clustering (+ cosine distance)
-- LDA
+- LDA (codes cr. Anindya Roy)
   
